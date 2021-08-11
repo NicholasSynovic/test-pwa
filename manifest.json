@@ -3,7 +3,7 @@
     "name": "Test PWA",
     "short_name": "TestPWA",
     "description": "A repository to test Progress Web Application development",
-    "start_url": "/public/",
+    "start_url": "/test-pwa",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
     "orientation": "portrait",
