@@ -8,7 +8,7 @@
     "theme_color": "#2f3d58",
     "orientation": "portrait",
     "display": "standalone",
-    "scope": "/test-pwa",
+    "scope": "https://https://nicholassynovic.github.io/test-pwa/",
     "icons": [
         {
             "src": "images/icon512.png",
